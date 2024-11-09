@@ -2,6 +2,7 @@
 <!--![배지 또는 로고 이미지 (선택사항)](링크)-->
 <!--프로젝트에 대한 간단한 설명을 여기에 작성합니다.-->
 (바코드)프린터로 RawData를 전송할 수있는 테스트 프로그램 입니다.
+![image](https://github.com/user-attachments/assets/89ea9efa-10c3-4600-ba1f-ffe07d78c038)
 
 
 ## 목차
